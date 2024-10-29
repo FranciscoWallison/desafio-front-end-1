@@ -1,4 +1,4 @@
-```md
+
 # Dashboard de Criptomoedas com [Reactjs e Vite](https://pt.vitejs.dev/guide/)
 
 O commit inicial deve incluir as configurações básicas do Reactjs com Vite:
