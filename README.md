@@ -126,7 +126,7 @@ Certifique-se de que todos os arquivos e funcionalidades estão devidamente docu
 
 ## Serão zerados caso os critérios de commit não sejam sequidos, se os arquivos criados pelo autor não contiverem suas credenciais ou plagio.
 _____
-## A data de entrega e apresentações está definida para o período de 29/10 a 31/11. Recomendo que concluam suas tarefas omais cedo possível, preferencialmente antes do dia 28, para evitar conflitos de última hora, atrasos nas notas ou quaisquer surpresas desagradáveis.
+## A data de entrega e apresentações está definida para o período de 29/10 a 28/11. Recomendo que concluam suas tarefas omais cedo possível, preferencialmente antes do dia 28, para evitar conflitos de última hora, atrasos nas notas ou quaisquer surpresas desagradáveis.
 
 
 
