@@ -127,7 +127,7 @@ Certifique-se de que todos os arquivos e funcionalidades estão devidamente docu
 
 ![image](https://github.com/user-attachments/assets/42c967b3-f96f-4d8a-89c1-d3c0dc69d32e)
 
-## Serão zerados caso os critérios de commit não sejam sequidos, se os arquivos criados pelo autor não contiverem suas credenciais e plagio.
+## Serão zerados caso os critérios de commit não sejam sequidos, se os arquivos criados pelo autor não contiverem suas credenciais ou plagio.
 _____
 ## A data de entrega e apresentações está definida para o período de 29/10 a 31/11. Recomendo que concluam suas tarefas omais cedo possível, preferencialmente antes do dia 28, para evitar conflitos de última hora, atrasos nas notas ou quaisquer surpresas desagradáveis.
 
