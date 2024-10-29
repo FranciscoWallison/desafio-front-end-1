@@ -116,9 +116,6 @@ Para garantir o acompanhamento do desenvolvimento e manutenção do projeto, cad
    - Exemplos adicionais:
      - **Filtro Alfanumérico**: `git commit -m "ADS-filtro_alfanumerico: <sua_matricula> Reactjs-vite"`
      - **Ícones de Ordenação**: `git commit -m "ADS-icones_ordenacao: <sua_matricula> Reactjs-vite"`
-     - **Estilização e Ajustes de Layout**: `git commit -m "ADS-estilizacao_layout: <sua_matricula> Reactjs-vite"`
-     - **Melhorias de Responsividade**: `git commit -m "ADS-responsividade: <sua_matricula> Reactjs-vite"`
-
 ---
 
 ### Estrutura do Projeto
